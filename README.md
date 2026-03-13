@@ -1,4 +1,5 @@
 <div align="center">
+
 ```
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗  ██████╗ ███████╗
 ██║  ██║██╔══██╗██╔════╝██║ ██╔╝██╔════╝██╔══██╗██╔═══██╗██╔════╝
@@ -8,18 +9,24 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
                   O F   H E L L   ─   v 3 . 0   U L T I M A T E
 ```
-⚡ HackerOfHell v3.0 ULTIMATE
-World's Most Complete Bug Bounty & Penetration Testing Automation Framework
+
+# ⚡ HackerOfHell v3.0 ULTIMATE
+
+### World's Most Complete Bug Bounty & Penetration Testing Automation Framework
+
 <br>
-![Author](https://img.shields.io/badge/Author-RAJESH%20BAJIYA-ff2d55?style=for-the-badge&logo=github&logoColor=white)
-![Handle](https://img.shields.io/badge/Handle-HACKEROFHELL-bf5af2?style=for-the-badge&logo=hackaday&logoColor=white)
-![Version](https://img.shields.io/badge/Version-3.0%20ULTIMATE-00d4ff?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-39ff14?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-⭐%20Give%20a%20Star!-ffd60a?style=for-the-badge)
+
+[![Author](https://img.shields.io/badge/Author-RAJESH%20BAJIYA-ff2d55?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Handle](https://img.shields.io/badge/Handle-HACKEROFHELL-bf5af2?style=for-the-badge&logo=hackaday&logoColor=white)](#)
+[![Version](https://img.shields.io/badge/Version-3.0%20ULTIMATE-00d4ff?style=for-the-badge)](#)
+[![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Shell](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-39ff14?style=for-the-badge)](#)
+[![Stars](https://img.shields.io/badge/Stars-⭐%20Give%20a%20Star!-ffd60a?style=for-the-badge)](#)
+
 <br>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║  7 PHASES  ·  23 MODULES  ·  1410+ LINES  ·  FULLY AUTOMATED    ║
@@ -27,13 +34,19 @@ World's Most Complete Bug Bounty & Penetration Testing Automation Framework
 ║  PROFESSIONAL HTML REPORT  ·  BUG CHAIN ANALYSIS  ·  GUI        ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
+
 <br>
+
 > **✍️ Created & Maintained by RAJESH BAJIYA**
 > **🔥 Known as: HACKEROFHELL**
 > **🌐 For: Bug Bounty Hunters · Pentesters · Security Researchers**
+
 </div>
+
 ---
-⚠️ LEGAL DISCLAIMER
+
+## ⚠️ LEGAL DISCLAIMER
+
 ```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                         !! IMPORTANT !!                            ║
@@ -51,34 +64,44 @@ World's Most Complete Bug Bounty & Penetration Testing Automation Framework
 ║  RAJESH BAJIYA / HACKEROFHELL takes NO responsibility for misuse. ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
+
 ---
-📋 TABLE OF CONTENTS
-#	Topic
-01	What is HackerOfHell?
-02	Why HackerOfHell?
-03	Full Feature List
-04	How It Works — Architecture
-05	Project Files
-06	Requirements — All Tools
-07	Step-by-Step Installation
-08	Terminal Usage — All Commands
-09	GUI Usage — Desktop Interface
-10	All CLI Flags Reference
-11	7 Phases — Full Breakdown
-12	Vulnerability Coverage
-13	Bug Chain Analysis
-14	Output Folder Structure
-15	Reading the HTML Report
-16	Manual Commands Cheatsheet
-17	Troubleshooting
-18	Contributing
-19	Author & Credits
+
+## 📋 TABLE OF CONTENTS
+
+| # | Topic |
+|---|---|
+| 01 | [What is HackerOfHell?](#-what-is-hackerofhell) |
+| 02 | [Why HackerOfHell?](#-why-hackerofhell) |
+| 03 | [Full Feature List](#-full-feature-list) |
+| 04 | [How It Works — Architecture](#-how-it-works--architecture) |
+| 05 | [Project Files](#-project-files) |
+| 06 | [Requirements — All Tools](#-requirements--all-tools) |
+| 07 | [Step-by-Step Installation](#-step-by-step-installation) |
+| 08 | [Terminal Usage — All Commands](#-terminal-usage--all-commands) |
+| 09 | [GUI Usage — Desktop Interface](#-gui-usage--desktop-interface) |
+| 10 | [All CLI Flags Reference](#-all-cli-flags-reference) |
+| 11 | [7 Phases — Full Breakdown](#-7-phases--full-breakdown) |
+| 12 | [Vulnerability Coverage](#-vulnerability-coverage) |
+| 13 | [Bug Chain Analysis](#-bug-chain-analysis) |
+| 14 | [Output Folder Structure](#-output-folder-structure) |
+| 15 | [Reading the HTML Report](#-reading-the-html-report) |
+| 16 | [Manual Commands Cheatsheet](#-manual-commands-cheatsheet) |
+| 17 | [Troubleshooting](#-troubleshooting) |
+| 18 | [Contributing](#-contributing) |
+| 19 | [Author & Credits](#-author--credits) |
+
 ---
-🔥 What is HackerOfHell?
-HackerOfHell is the world's most complete open-source bug bounty automation framework, built for Kali Linux by RAJESH BAJIYA (HACKEROFHELL).
-It takes a single domain as input and automatically runs 23 modules across 7 phases — from passive subdomain recon all the way to a professional HTML pentest report with CVSS-scored findings, copy-paste PoC commands, remediation steps, and automated bug chain analysis that finds multi-vulnerability escalation paths.
-The core principle:
+
+## 🔥 What is HackerOfHell?
+
+**HackerOfHell** is the world's most complete open-source bug bounty automation framework, built for **Kali Linux** by **RAJESH BAJIYA (HACKEROFHELL)**.
+
+It takes a single domain as input and automatically runs **23 modules** across **7 phases** — from passive subdomain recon all the way to a **professional HTML pentest report** with CVSS-scored findings, copy-paste PoC commands, remediation steps, and **automated bug chain analysis** that finds multi-vulnerability escalation paths.
+
+**The core principle:**
 > Only confirmed, verified bugs reach the final report. Zero noise. Zero false positives. Pure signal.
+
 ```
 You type:    sudo ./hackerofhell.sh -t target.com
 
@@ -99,18 +122,25 @@ It does:     ┌─ Phase 1: Passive Recon ────────────�
 
 You get:     hackerofhell_target.com_20241025_143022.html
 ```
+
 ---
-💡 Why HackerOfHell?
-Without HackerOfHell	With HackerOfHell
-Run 20+ tools one by one	Single command, all tools auto-chained
-Miss bugs from time pressure	23 modules cover every attack surface
-Lots of false positives to verify	Every finding auto-verified before saving
-Write reports manually	Professional HTML report auto-generated
-Never connect bug chains	Chain analysis finds escalation paths
-No alerts while scanning	Real-time Discord/Slack notifications
-Forget to check sensitive paths	30+ paths auto-checked every scan
+
+## 💡 Why HackerOfHell?
+
+| Without HackerOfHell | With HackerOfHell |
+|---|---|
+| Run 20+ tools one by one | Single command, all tools auto-chained |
+| Miss bugs from time pressure | 23 modules cover every attack surface |
+| Lots of false positives to verify | Every finding auto-verified before saving |
+| Write reports manually | Professional HTML report auto-generated |
+| Never connect bug chains | Chain analysis finds escalation paths |
+| No alerts while scanning | Real-time Discord/Slack notifications |
+| Forget to check sensitive paths | 30+ paths auto-checked every scan |
+
 ---
-✨ Full Feature List
+
+## ✨ Full Feature List
+
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │                HACKEROFHELL v3.0 — COMPLETE FEATURES             │
@@ -183,8 +213,11 @@ Forget to check sensitive paths	30+ paths auto-checked every scan
 │  ✔  One-click report opener                                      │
 └──────────────────────────────────────────────────────────────────┘
 ```
+
 ---
-🏗️ How It Works — Architecture
+
+## 🏗️ How It Works — Architecture
+
 ```
                    ┌───────────────────────────────┐
                    │      hackerofhell_gui.py       │
@@ -229,8 +262,11 @@ Forget to check sensitive paths	30+ paths auto-checked every scan
        │   └── hackerofhell.log         │
        └─────────────────────────────────┘
 ```
+
 ---
-📁 Project Files
+
+## 📁 Project Files
+
 ```
 hackerofhell/
 │
@@ -244,53 +280,70 @@ hackerofhell/
 │
 └── README.md                ← You are here
 ```
+
 ---
-📦 Requirements — All Tools
-Operating System
-Kali Linux 2023.x or newer is strongly recommended. All tools come pre-installed or are 1-command installs.
-APT Tools
-Tool	Purpose
-`nmap`	Port scanning + service detection
-`gobuster`	Directory + admin panel brute force
-`ffuf`	Fast web fuzzer
-`sqlmap`	SQL injection detection + exploitation
-`whatweb`	Technology fingerprinting
-`wafw00f`	WAF detection
-`wpscan`	WordPress vulnerability scanner
-`seclists`	Wordlists (required for all brute force)
-`python3-tk`	GUI library
-`curl`	HTTP requests
-`dig`	DNS queries
-`whois`	Domain WHOIS lookup
-`git`	Clone this repo
-`golang`	Required for Go tool installs
-`tmux`	Split terminal (optional but useful)
-Go Tools (install after Go)
-Tool	Purpose
-`subfinder`	Multi-source subdomain enumeration
-`amass`	OSINT subdomain discovery
-`dnsx`	DNS resolver + brute force
-`httpx`	HTTP prober + tech detection
-`nuclei`	Template-based vulnerability scanner
-`dalfox`	XSS scanner with DOM analysis
-`gau`	Historical URL collection
-`waybackurls`	Wayback Machine URL collector
-`getJS`	JavaScript file extractor
+
+## 📦 Requirements — All Tools
+
+### Operating System
+**Kali Linux 2023.x or newer** is strongly recommended. All tools come pre-installed or are 1-command installs.
+
+### APT Tools
+
+| Tool | Purpose |
+|---|---|
+| `nmap` | Port scanning + service detection |
+| `gobuster` | Directory + admin panel brute force |
+| `ffuf` | Fast web fuzzer |
+| `sqlmap` | SQL injection detection + exploitation |
+| `whatweb` | Technology fingerprinting |
+| `wafw00f` | WAF detection |
+| `wpscan` | WordPress vulnerability scanner |
+| `seclists` | Wordlists (required for all brute force) |
+| `python3-tk` | GUI library |
+| `curl` | HTTP requests |
+| `dig` | DNS queries |
+| `whois` | Domain WHOIS lookup |
+| `git` | Clone this repo |
+| `golang` | Required for Go tool installs |
+| `tmux` | Split terminal (optional but useful) |
+
+### Go Tools (install after Go)
+
+| Tool | Purpose |
+|---|---|
+| `subfinder` | Multi-source subdomain enumeration |
+| `amass` | OSINT subdomain discovery |
+| `dnsx` | DNS resolver + brute force |
+| `httpx` | HTTP prober + tech detection |
+| `nuclei` | Template-based vulnerability scanner |
+| `dalfox` | XSS scanner with DOM analysis |
+| `gau` | Historical URL collection |
+| `waybackurls` | Wayback Machine URL collector |
+| `getJS` | JavaScript file extractor |
+
 ---
-🚀 Step-by-Step Installation
-Step 1 — Create the Project Folder
+
+## 🚀 Step-by-Step Installation
+
+### Step 1 — Create the Project Folder
+
 ```bash
 mkdir -p ~/autopwn
 cd ~/autopwn
 ```
+
 ---
-Step 2 — Download or Copy the Files
-Option A — Clone from GitHub (recommended):
+
+### Step 2 — Download or Copy the Files
+
+**Option A — Clone from GitHub (recommended):**
 ```bash
-git clone https://github.com/thehellrider978/HACKEROFHELL-v3.0-ULTIMATE.git ~/autopwn
+git clone https://github.com/RAJESHBAJIYA/hackerofhell.git ~/autopwn
 cd ~/autopwn
 ```
-Option B — Copy-paste manually:
+
+**Option B — Copy-paste manually:**
 ```bash
 # File 1: Main script
 nano ~/autopwn/hackerofhell.sh
@@ -300,14 +353,20 @@ nano ~/autopwn/hackerofhell.sh
 nano ~/autopwn/hackerofhell_gui.py
 # → Paste the hackerofhell_gui.py content → Ctrl+X → Y → Enter
 ```
+
 ---
-Step 3 — Make the Script Executable
+
+### Step 3 — Make the Script Executable
+
 ```bash
 chmod +x ~/autopwn/hackerofhell.sh
 ls -la ~/autopwn/
 ```
+
 ---
-Step 4 — Install All APT Tools
+
+### Step 4 — Install All APT Tools
+
 ```bash
 sudo apt update -y && sudo apt upgrade -y
 
@@ -318,8 +377,11 @@ sudo apt install -y \
   tmux dnsutils whois git golang-go \
   libpcap-dev
 ```
+
 ---
-Step 5 — Install All Go Tools
+
+### Step 5 — Install All Go Tools
+
 ```bash
 # Verify Go is installed first
 go version
@@ -340,8 +402,11 @@ go install -v github.com/tomnomnom/waybackurls@latest && \
 go install -v github.com/tomnomnom/getJS@latest && \
 echo "ALL GO TOOLS INSTALLED"
 ```
+
 ---
-Step 6 — Add Go Binaries to PATH
+
+### Step 6 — Add Go Binaries to PATH
+
 ```bash
 # Add to shell permanently
 echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.bashrc
@@ -350,15 +415,21 @@ source ~/.bashrc
 # Verify it worked
 echo $PATH | grep go
 ```
+
 ---
-Step 7 — Update Nuclei Templates
+
+### Step 7 — Update Nuclei Templates
+
 ```bash
 nuclei -update-templates
 # This downloads ~7000+ vulnerability templates
 # Takes 1-2 minutes on first run
 ```
+
 ---
-Step 8 — Verify All Tools
+
+### Step 8 — Verify All Tools
+
 ```bash
 # Run this full check — should show ✓ for everything
 echo "=== CHECKING ALL TOOLS ==="
@@ -381,15 +452,22 @@ echo ""
 echo "=== CHECKING NUCLEI TEMPLATES ==="
 ls ~/nuclei-templates/ 2>/dev/null | wc -l | xargs -I{} echo "  [✓] {} template folders found"
 ```
+
 ---
-🖥️ Terminal Usage — All Commands
-── The Most Important Command ──
+
+## 🖥️ Terminal Usage — All Commands
+
+### ── The Most Important Command ──
+
 ```bash
 sudo ~/autopwn/hackerofhell.sh -t target.com
 ```
 > This single command runs ALL 7 phases automatically.
+
 ---
-Quick Start Examples
+
+### Quick Start Examples
+
 ```bash
 # Basic scan — runs everything with defaults
 sudo ~/autopwn/hackerofhell.sh -t target.com
@@ -433,8 +511,11 @@ sudo ~/autopwn/hackerofhell.sh \
   -p http://127.0.0.1:8080 \
   -n "https://hooks.slack.com/services/YOUR/WEBHOOK"
 ```
+
 ---
-After the Scan
+
+### After the Scan
+
 ```bash
 # Find the report (auto-named with timestamp)
 find ~/hackerofhell -name "*.html" -path "*/07_report/*" 2>/dev/null
@@ -464,8 +545,11 @@ grep "\[VULN\]" ~/hackerofhell/target.com/hackerofhell.log
 cat ~/hackerofhell/target.com/01_recon/all_subs.txt | wc -l
 cat ~/hackerofhell/target.com/01_recon/all_subs.txt | head -20
 ```
+
 ---
-Run in tmux (Split Terminal — Recommended)
+
+### Run in tmux (Split Terminal — Recommended)
+
 ```bash
 # Install tmux
 sudo apt install tmux -y
@@ -482,8 +566,11 @@ tmux attach -t hell
 # Detach from tmux (scan keeps running): Ctrl+B then D
 # Reattach later: tmux attach -t hell
 ```
+
 ---
-Run in Background (Nohup)
+
+### Run in Background (Nohup)
+
 ```bash
 # Start scan in background
 nohup sudo ~/autopwn/hackerofhell.sh -t target.com \
@@ -497,13 +584,19 @@ tail -f ~/autopwn/scan_$(date +%Y%m%d).log
 # Watch only vulnerabilities
 tail -f ~/autopwn/scan_$(date +%Y%m%d).log | grep --color=always VULN
 ```
+
 ---
-🖱️ GUI Usage — Desktop Interface
-Launch
+
+## 🖱️ GUI Usage — Desktop Interface
+
+### Launch
+
 ```bash
 python3 ~/autopwn/hackerofhell_gui.py
 ```
-GUI Layout
+
+### GUI Layout
+
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║ ⚡ HACKEROFHELL v3.0 ULTIMATE  |  RAJESH BAJIYA         🕐 time ║
@@ -561,7 +654,9 @@ GUI Layout
 ║  Scanning: target.com  |  Mode: NORMAL  |  Findings: 8          ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-Step-by-Step GUI Walkthrough
+
+### Step-by-Step GUI Walkthrough
+
 ```
 Step 1  →  Type your target in the DOMAIN box         (e.g. target.com)
 Step 2  →  Set output directory                        (default: ~/hackerofhell)
@@ -580,8 +675,11 @@ Step 14 →  Watch PHASES tab — track which phase is running
 Step 15 →  Check CHAINS tab — escalation paths appear after scan
 Step 16 →  Click 📄 OPEN REPORT when done — Firefox opens the HTML report
 ```
+
 ---
-🎛️ All CLI Flags Reference
+
+## 🎛️ All CLI Flags Reference
+
 ```bash
 sudo ./hackerofhell.sh [FLAGS]
 
@@ -632,20 +730,27 @@ FLAGS (no value needed):
 
   -h, --help                Show help and exit
 ```
-Mode Comparison
-	passive	normal	ultra + --deep
-Subdomain enum	✓	✓	✓
-DNS zone transfer	✗	✓	✓
-Nmap	top 100	top 1000	all 65535 ports
-Directory brute	✗	✓	✓
-Nuclei scan	✗	✓	✓ (all severity)
-SQLmap	✗	✓	✓ (level 3)
-XSS dalfox	✗	✓	✓ + deep DOM
-SSRF/LFI	✗	✓	✓
-Time (estimate)	5 min	30–90 min	2–6 hours
+
+### Mode Comparison
+
+| | passive | normal | ultra + --deep |
+|---|---|---|---|
+| Subdomain enum | ✓ | ✓ | ✓ |
+| DNS zone transfer | ✗ | ✓ | ✓ |
+| Nmap | top 100 | top 1000 | all 65535 ports |
+| Directory brute | ✗ | ✓ | ✓ |
+| Nuclei scan | ✗ | ✓ | ✓ (all severity) |
+| SQLmap | ✗ | ✓ | ✓ (level 3) |
+| XSS dalfox | ✗ | ✓ | ✓ + deep DOM |
+| SSRF/LFI | ✗ | ✓ | ✓ |
+| Time (estimate) | 5 min | 30–90 min | 2–6 hours |
+
 ---
-🔄 7 Phases — Full Breakdown
-─── Phase 1: Passive Intelligence Gathering ───
+
+## 🔄 7 Phases — Full Breakdown
+
+### ─── Phase 1: Passive Intelligence Gathering ───
+
 ```bash
 # What runs automatically inside this phase:
 
@@ -678,10 +783,14 @@ curl "https://ipinfo.io/<TARGET_IP>/json"   # Gets ASN, org, country
 # Google dorks auto-generated and saved to:
 # 01_recon/google_dorks.txt
 ```
-Output folder: `01_recon/`
-Key files: `all_subs.txt`, `all_urls.txt`, `dns_full.txt`, `google_dorks.txt`
+
+**Output folder:** `01_recon/`
+**Key files:** `all_subs.txt`, `all_urls.txt`, `dns_full.txt`, `google_dorks.txt`
+
 ---
-─── Phase 2: Active Reconnaissance & Fingerprinting ───
+
+### ─── Phase 2: Active Reconnaissance & Fingerprinting ───
+
 ```bash
 # Live host probing — tests every subdomain
 httpx -l all_subs.txt \
@@ -709,10 +818,14 @@ wpscan --url https://target.com \
   --enumerate vp,vt,u,ap,at,cb,dbe \
   --format json
 ```
-Output folder: `02_enum/`
-Key files: `live_hosts.txt`, `nmap_top1000.txt`, `nmap_services.txt`, `waf.txt`
+
+**Output folder:** `02_enum/`
+**Key files:** `live_hosts.txt`, `nmap_top1000.txt`, `nmap_services.txt`, `waf.txt`
+
 ---
-─── Phase 3: Deep Content Discovery ───
+
+### ─── Phase 3: Deep Content Discovery ───
+
 ```bash
 # robots.txt and sitemap parsing
 curl https://target.com/robots.txt
@@ -758,10 +871,14 @@ ffuf -u https://target.com/FUZZ \
 ffuf -u https://target.com/FUZZ \
   -w /usr/share/seclists/Discovery/Web-Content/api/api-endpoints.txt
 ```
-Output folder: `03_crawl/`
-Key files: `admin_found.txt`, `js_secrets.txt`, `param_urls.txt`, `robots_paths.txt`
+
+**Output folder:** `03_crawl/`
+**Key files:** `admin_found.txt`, `js_secrets.txt`, `param_urls.txt`, `robots_paths.txt`
+
 ---
-─── Phase 4: Automated Vulnerability Scanning ───
+
+### ─── Phase 4: Automated Vulnerability Scanning ───
+
 ```bash
 # Nuclei — runs the full template library
 nuclei -update-templates   # auto-update before scan
@@ -787,11 +904,16 @@ nuclei -l live_urls.txt \
 # WPEngine       → "404 error unknown site"
 # GoDaddy        → "This page is parked free"
 ```
-Output folder: `04_vuln/`
-Key files: `nuclei_results.jsonl`, `wpscan.json` (if WordPress)
+
+**Output folder:** `04_vuln/`
+**Key files:** `nuclei_results.jsonl`, `wpscan.json` (if WordPress)
+
 ---
-─── Phase 5: Deep Verification ───
-All findings here are verified before saving — no false positives in report.
+
+### ─── Phase 5: Deep Verification ───
+
+All findings here are **verified before saving** — no false positives in report.
+
 ```bash
 # ─── XSS ──────────────────────────────────────────────────────────
 dalfox file param_urls.txt \
@@ -879,11 +1001,16 @@ curl -sk -I https://target.com | grep -iE \
 x-content-type-options|referrer-policy|permissions-policy"
 # Missing headers = LOW severity finding with remediation
 ```
-Output folder: `05_poc/`
-Key files: `xss_results.json`, `sqlmap_results.csv`, `sqlmap/`
+
+**Output folder:** `05_poc/`
+**Key files:** `xss_results.json`, `sqlmap_results.csv`, `sqlmap/`
+
 ---
-─── Phase 6: Bug Chain Analysis ───
-HackerOfHell automatically detects vulnerability chains — combinations of bugs that create higher combined impact.
+
+### ─── Phase 6: Bug Chain Analysis ───
+
+HackerOfHell automatically detects **vulnerability chains** — combinations of bugs that create higher combined impact.
+
 ```
 Bug Chains Detected:
 
@@ -912,9 +1039,13 @@ Bug Chains Detected:
       Inject PHP into web server access.log via User-Agent,
       then include the log file via LFI = Remote Code Execution.
 ```
-Output folder: `06_chains/`
+
+**Output folder:** `06_chains/`
+
 ---
-─── Phase 7: Professional Report Generation ───
+
+### ─── Phase 7: Professional Report Generation ───
+
 ```bash
 # Report auto-generated at:
 ~/hackerofhell/target.com/07_report/hackerofhell_target.com_TIMESTAMP.html
@@ -922,46 +1053,56 @@ Output folder: `06_chains/`
 # Open it
 firefox ~/hackerofhell/target.com/07_report/hackerofhell_*.html
 ```
+
 Report contains:
-HackerOfHell ASCII banner
-RAJESH BAJIYA | HACKEROFHELL author stamp
-Target domain + scan date + mode + classification
-Calculated Risk Score
-Findings by severity (bar chart)
-Scan statistics (Total/Critical/High/Medium/Low/Chains)
-Vulnerability Chains section
-Every confirmed finding with: severity badge, CVSS score, affected URL, parameter, evidence, copy-paste PoC commands, remediation guide
-Footer: RAJESH BAJIYA | HACKEROFHELL | CONFIDENTIAL
+- HackerOfHell ASCII banner
+- **RAJESH BAJIYA | HACKEROFHELL** author stamp
+- Target domain + scan date + mode + classification
+- Calculated Risk Score
+- Findings by severity (bar chart)
+- Scan statistics (Total/Critical/High/Medium/Low/Chains)
+- Vulnerability Chains section
+- Every confirmed finding with: severity badge, CVSS score, affected URL, parameter, evidence, **copy-paste PoC commands**, remediation guide
+- Footer: **RAJESH BAJIYA | HACKEROFHELL | CONFIDENTIAL**
+
 ---
-🐛 Vulnerability Coverage
-#	Vulnerability Type	Severity	CVSS	Tool Used
-01	SQL Injection	🔴 CRITICAL	9.8	sqlmap
-02	Remote Code Execution	🔴 CRITICAL	9.5	nuclei CVE templates
-03	SSRF — Cloud Metadata Exfil	🔴 CRITICAL	9.3	custom curl
-04	Local File Inclusion (LFI)	🔴 CRITICAL	9.1	custom curl
-05	Hardcoded Secrets in JS	🔴 CRITICAL	9.1	custom regex
-06	Default / Weak Credentials	🔴 CRITICAL	9.8	custom curl
-07	Exposed .env / .git / config	🔴 CRITICAL	9.1	curl
-08	Spring Actuator / heapdump	🔴 CRITICAL	9.1	curl
-09	DNS Zone Transfer	🟠 HIGH	7.5	dig
-10	Subdomain Takeover	🟠 HIGH	8.1	dnsx + curl
-11	Cross-Site Scripting (XSS)	🟠 HIGH	7.4	dalfox
-12	CORS Misconfiguration	🟠 HIGH	7.5	curl
-13	Exposed Admin Panels	🟠 HIGH	7.2	gobuster
-14	403 Access Control Bypass	🟠 HIGH	7.5	curl
-15	Exposed Backup Files	🟠 HIGH	7.5	curl
-16	Unauthenticated API Access	🟠 HIGH	8.2	curl
-17	Exposed Internal Services	🟠 HIGH	8.5	nmap
-18	Open Redirect	🟡 MEDIUM	6.1	curl
-19	Sensitive File Exposure	🟡 MEDIUM	5.3–9.1	curl
-20	WordPress Vulnerabilities	🟡 MEDIUM	varies	wpscan
-21	Nuclei CVE Matches	varies	varies	nuclei
-22	Missing Security Headers	🟢 LOW	4.3	curl
-23	Misconfigured Cloud Services	🔴 CRITICAL	varies	nuclei
+
+## 🐛 Vulnerability Coverage
+
+| # | Vulnerability Type | Severity | CVSS | Tool Used |
+|---|---|---|---|---|
+| 01 | SQL Injection | 🔴 CRITICAL | 9.8 | sqlmap |
+| 02 | Remote Code Execution | 🔴 CRITICAL | 9.5 | nuclei CVE templates |
+| 03 | SSRF — Cloud Metadata Exfil | 🔴 CRITICAL | 9.3 | custom curl |
+| 04 | Local File Inclusion (LFI) | 🔴 CRITICAL | 9.1 | custom curl |
+| 05 | Hardcoded Secrets in JS | 🔴 CRITICAL | 9.1 | custom regex |
+| 06 | Default / Weak Credentials | 🔴 CRITICAL | 9.8 | custom curl |
+| 07 | Exposed .env / .git / config | 🔴 CRITICAL | 9.1 | curl |
+| 08 | Spring Actuator / heapdump | 🔴 CRITICAL | 9.1 | curl |
+| 09 | DNS Zone Transfer | 🟠 HIGH | 7.5 | dig |
+| 10 | Subdomain Takeover | 🟠 HIGH | 8.1 | dnsx + curl |
+| 11 | Cross-Site Scripting (XSS) | 🟠 HIGH | 7.4 | dalfox |
+| 12 | CORS Misconfiguration | 🟠 HIGH | 7.5 | curl |
+| 13 | Exposed Admin Panels | 🟠 HIGH | 7.2 | gobuster |
+| 14 | 403 Access Control Bypass | 🟠 HIGH | 7.5 | curl |
+| 15 | Exposed Backup Files | 🟠 HIGH | 7.5 | curl |
+| 16 | Unauthenticated API Access | 🟠 HIGH | 8.2 | curl |
+| 17 | Exposed Internal Services | 🟠 HIGH | 8.5 | nmap |
+| 18 | Open Redirect | 🟡 MEDIUM | 6.1 | curl |
+| 19 | Sensitive File Exposure | 🟡 MEDIUM | 5.3–9.1 | curl |
+| 20 | WordPress Vulnerabilities | 🟡 MEDIUM | varies | wpscan |
+| 21 | Nuclei CVE Matches | varies | varies | nuclei |
+| 22 | Missing Security Headers | 🟢 LOW | 4.3 | curl |
+| 23 | Misconfigured Cloud Services | 🔴 CRITICAL | varies | nuclei |
+
 ---
-⛓️ Bug Chain Analysis
-HackerOfHell is one of the only tools that automatically combines findings into escalation chains.
-Example — LFI → RCE
+
+## ⛓️ Bug Chain Analysis
+
+HackerOfHell is one of the only tools that **automatically combines findings** into escalation chains.
+
+### Example — LFI → RCE
+
 ```
 Phase 5 Found: LFI on https://target.com/page?file=../../../etc/passwd
 
@@ -976,7 +1117,9 @@ Chain Analysis automatically detects escalation path:
   Result: Remote Code Execution
   Combined CVSS: 9.9 — CRITICAL
 ```
-Example — Open Redirect + XSS → Account Takeover
+
+### Example — Open Redirect + XSS → Account Takeover
+
 ```
 Phase 5 Found:
   XSS     on https://target.com/search?q=<payload>
@@ -995,8 +1138,11 @@ Chain Analysis detects:
   Result: Full Account Takeover
   Combined CVSS: 9.6 — CRITICAL
 ```
+
 ---
-📂 Output Folder Structure
+
+## 📂 Output Folder Structure
+
 ```
 ~/hackerofhell/
 └── target.com/
@@ -1057,8 +1203,11 @@ Chain Analysis detects:
     ├── findings.json                 All findings (machine-readable)
     └── hackerofhell.log              Complete scan log with timestamps
 ```
+
 ---
-📊 Reading the HTML Report
+
+## 📊 Reading the HTML Report
+
 ```bash
 # Open the report
 firefox ~/hackerofhell/target.com/07_report/hackerofhell_*.html
@@ -1069,7 +1218,9 @@ find ~/hackerofhell -name "*.html" 2>/dev/null
 # Copy report to Desktop
 cp ~/hackerofhell/target.com/07_report/hackerofhell_*.html ~/Desktop/
 ```
-Report structure:
+
+**Report structure:**
+
 ```
 ╔══════════════════════════════════════════════════════╗
 ║  ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗   ║  ← ASCII Banner
@@ -1108,10 +1259,15 @@ Report structure:
 ║  RAJESH BAJIYA | HACKEROFHELL | CONFIDENTIAL         ║  ← Author stamp
 ╚══════════════════════════════════════════════════════╝
 ```
+
 ---
-📖 Manual Commands Cheatsheet
+
+## 📖 Manual Commands Cheatsheet
+
 A reference for running individual modules by hand when needed.
-Subdomain Enumeration
+
+### Subdomain Enumeration
+
 ```bash
 # Subfinder
 subfinder -d target.com -silent -all -o subs.txt
@@ -1141,7 +1297,9 @@ print('\n'.join(sorted(names)))
 cat subs*.txt | sort -u > all_subs.txt
 wc -l all_subs.txt
 ```
-DNS Intelligence
+
+### DNS Intelligence
+
 ```bash
 # Full DNS records for all subdomains
 dnsx -l all_subs.txt -a -aaaa -cname -mx -ns -txt -resp
@@ -1159,7 +1317,9 @@ dig MX target.com +short
 # Reverse DNS
 dig -x 1.2.3.4 +short
 ```
-Port Scanning
+
+### Port Scanning
+
 ```bash
 # Quick top-1000 scan
 nmap -sS -T3 --open --top-ports 1000 target.com
@@ -1179,7 +1339,9 @@ nmap -sV --open --top-ports 1000 -oN nmap.txt -oX nmap.xml target.com
 # Search for specific service in results
 grep "open" nmap.txt | grep "http\|ssl\|web"
 ```
-Live Host Probing
+
+### Live Host Probing
+
 ```bash
 # Full probe with all info
 httpx -l all_subs.txt \
@@ -1195,7 +1357,9 @@ httpx -l all_subs.txt -status-code -silent | grep " 200"
 # Check specific path on all hosts
 httpx -l all_subs.txt -path /admin -status-code -silent | grep " 200"
 ```
-Directory Brute Force
+
+### Directory Brute Force
+
 ```bash
 # Standard directory scan
 gobuster dir -u https://target.com \
@@ -1222,7 +1386,9 @@ ffuf -u https://target.com/api/FUZZ \
   -w /usr/share/seclists/Discovery/Web-Content/api/api-endpoints.txt \
   -mc 200,201,204,401,403
 ```
-Nuclei
+
+### Nuclei
+
 ```bash
 # Full vulnerability scan
 nuclei -u https://target.com -t ~/nuclei-templates/ \
@@ -1242,7 +1408,9 @@ nuclei -u https://target.com -t ~/nuclei-templates/cves/ -silent
 # Update templates
 nuclei -update-templates
 ```
-XSS Testing
+
+### XSS Testing
+
 ```bash
 # Dalfox single URL
 dalfox url "https://target.com/search?q=test" --skip-bav
@@ -1257,7 +1425,9 @@ curl -sk "https://target.com/search?q=<script>alert(1)</script>" \
 # Check reflection
 curl -sk "https://target.com/search?q=HACKEROFHELL" | grep "HACKEROFHELL"
 ```
-SQL Injection
+
+### SQL Injection
+
 ```bash
 # Basic URL test
 sqlmap -u "https://target.com/page?id=1" --batch --dbs
@@ -1278,7 +1448,9 @@ sqlmap -u "https://target.com/page?id=1" \
 # OS shell (if privileged DB user)
 sqlmap -u "https://target.com/page?id=1" --os-shell --batch
 ```
-CORS
+
+### CORS
+
 ```bash
 # Test origin reflection
 curl -sk -H "Origin: https://evil.test" \
@@ -1292,7 +1464,9 @@ curl -sk -H "Origin: null" \
 curl -sk -H "Origin: https://target.com.evil.test" \
   https://target.com/api/user -I | grep -i "access-control"
 ```
-SSRF
+
+### SSRF
+
 ```bash
 # AWS metadata
 curl -sk "https://target.com/fetch?url=http://169.254.169.254/latest/meta-data/"
@@ -1304,7 +1478,9 @@ for port in 22 80 443 3306 5432 6379 8080 8443 9200 27017; do
   echo "Port $port: HTTP $code"
 done
 ```
-LFI
+
+### LFI
+
 ```bash
 # Basic
 curl -sk "https://target.com/page?file=../../../etc/passwd"
@@ -1319,7 +1495,9 @@ curl -sk "https://target.com/page?file=..%252F..%252F..%252Fetc%252Fpasswd"
 curl -sk "https://target.com/page?file=php://filter/convert.base64-encode/resource=index.php" \
   | base64 -d
 ```
-Security Headers Check
+
+### Security Headers Check
+
 ```bash
 # Check all security headers
 curl -sk -I https://target.com | grep -iE \
@@ -1337,7 +1515,9 @@ for h in "strict-transport-security" "content-security-policy" \
     || echo "[✗] MISSING: $h"
 done
 ```
-Sensitive Files Manual Check
+
+### Sensitive Files Manual Check
+
 ```bash
 # Quick scan
 for path in \
@@ -1351,9 +1531,13 @@ for path in \
   [[ "$code" == "200" ]] && echo "[FOUND] https://target.com$path (HTTP $code)"
 done
 ```
+
 ---
-🔧 Troubleshooting
-Permission Denied / Script Not Running
+
+## 🔧 Troubleshooting
+
+### Permission Denied / Script Not Running
+
 ```bash
 # Check file exists
 ls -la ~/autopwn/hackerofhell.sh
@@ -1364,7 +1548,9 @@ chmod +x ~/autopwn/hackerofhell.sh
 # Always run with sudo
 sudo ~/autopwn/hackerofhell.sh -t target.com
 ```
-GUI Doesn't Open
+
+### GUI Doesn't Open
+
 ```bash
 # Install tkinter
 sudo apt install python3-tk -y
@@ -1375,7 +1561,9 @@ python3 -c "import tkinter; print('tkinter OK')"
 # Launch GUI
 python3 ~/autopwn/hackerofhell_gui.py
 ```
-Go Tools Not Found After Install
+
+### Go Tools Not Found After Install
+
 ```bash
 # Add to PATH
 echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.bashrc
@@ -1387,7 +1575,9 @@ ls ~/go/bin/
 # Verify each tool
 which subfinder httpx nuclei dalfox gau waybackurls
 ```
-Nuclei Templates Missing
+
+### Nuclei Templates Missing
+
 ```bash
 # Update templates
 nuclei -update-templates
@@ -1396,7 +1586,9 @@ nuclei -update-templates
 ls ~/nuclei-templates/ | wc -l
 find ~/nuclei-templates -name "*.yaml" | wc -l
 ```
-Report Not Found After Scan
+
+### Report Not Found After Scan
+
 ```bash
 # Search everywhere
 find ~/ -name "hackerofhell_*.html" 2>/dev/null
@@ -1407,7 +1599,9 @@ tail -50 ~/hackerofhell/target.com/hackerofhell.log
 # Check output folder exists
 ls ~/hackerofhell/target.com/07_report/
 ```
-Scan Runs But No Findings
+
+### Scan Runs But No Findings
+
 ```bash
 # Check findings.json
 cat ~/hackerofhell/target.com/findings.json | python3 -m json.tool
@@ -1421,7 +1615,9 @@ nuclei -u https://target.com -t ~/nuclei-templates/http/technologies/ -silent
 # Target may be well-hardened — check log
 grep "\[\+\]" ~/hackerofhell/target.com/hackerofhell.log
 ```
-Tool Install Fails (Go)
+
+### Tool Install Fails (Go)
+
 ```bash
 # Upgrade Go
 sudo apt remove golang-go -y
@@ -1431,7 +1627,9 @@ echo 'export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin' >> ~/.bashrc
 source ~/.bashrc
 go version
 ```
-Nmap Requires Root
+
+### Nmap Requires Root
+
 ```bash
 # Always run hackerofhell.sh with sudo
 sudo ~/autopwn/hackerofhell.sh -t target.com
@@ -1439,7 +1637,9 @@ sudo ~/autopwn/hackerofhell.sh -t target.com
 # Or run nmap manually with sudo
 sudo nmap -sS --top-ports 1000 target.com
 ```
-Target Behind Cloudflare (Origin IP Hidden)
+
+### Target Behind Cloudflare (Origin IP Hidden)
+
 ```bash
 # Check if Cloudflare
 curl -sk -I https://target.com | grep -i "cf-ray\|cloudflare"
@@ -1455,9 +1655,13 @@ curl "https://api.shodan.io/dns/resolve?hostnames=target.com&key=FREE_KEY"
 cat ~/hackerofhell/target.com/01_recon/all_subs.txt | \
   xargs -I{} dig {} +short | sort -u | grep -v "^$"
 ```
+
 ---
-🤝 Contributing
+
+## 🤝 Contributing
+
 Contributions are welcome! Here's how to add new modules:
+
 ```bash
 # Fork and clone
 git clone https://github.com/RAJESHBAJIYA/hackerofhell.git
@@ -1483,7 +1687,9 @@ git commit -m "Add: SSTI detection module in Phase 5"
 git push origin feature/ssti-module
 # Then open Pull Request on GitHub
 ```
-Wanted Modules / Ideas
+
+### Wanted Modules / Ideas
+
 ```
 [ ] SSTI — Server-Side Template Injection
 [ ] XXE — XML External Entity
@@ -1500,9 +1706,13 @@ Wanted Modules / Ideas
 [ ] Burp Suite extension version
 [ ] HackerOne/Bugcrowd auto-submission
 ```
+
 ---
-👤 Author & Credits
+
+## 👤 Author & Credits
+
 <div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
@@ -1515,38 +1725,59 @@ Wanted Modules / Ideas
 ║                      B A J I Y A                             ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
-RAJESH BAJIYA
-🔥 HACKEROFHELL
-Bug Bounty Hunter · Penetration Tester · Security Researcher
+
+## RAJESH BAJIYA
+### 🔥 HACKEROFHELL
+
+**Bug Bounty Hunter · Penetration Tester · Security Researcher**
+
 <br>
-![GitHub](https://img.shields.io/badge/GitHub-RAJESHBAJIYA-181717?style=for-the-badge&logo=github&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-HACKEROFHELL-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-![BugBounty](https://img.shields.io/badge/Platform-HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)
+
+[![GitHub](https://img.shields.io/badge/GitHub-RAJESHBAJIYA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAJESHBAJIYA)
+[![Twitter](https://img.shields.io/badge/Twitter-HACKEROFHELL-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HACKEROFHELL)
+[![BugBounty](https://img.shields.io/badge/Platform-HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/RAJESHBAJIYA)
+
 <br>
+
 ---
-💬 Quote
+
+### 💬 Quote
+
 ```
 "The best tools are the ones that let you focus on thinking,
  not on typing the same commands over and over."
 
                             — RAJESH BAJIYA | HACKEROFHELL
 ```
+
 ---
-⭐ If HackerOfHell helped you find bugs, star this repo!
+
+### ⭐ If HackerOfHell helped you find bugs, star this repo!
+
 ```
 Found a bug with this tool? ⭐ Star it.
 Learned something? ⭐ Star it.
 Think it's the coolest pentest tool? ⭐ Star it.
 ```
+
 <br>
+
 ---
-Built with 🔥 by RAJESH BAJIYA (HACKEROFHELL)
-Use responsibly. Hack legally. Bug bounty only.
+
+**Built with 🔥 by RAJESH BAJIYA (HACKEROFHELL)**
+
+**Use responsibly. Hack legally. Bug bounty only.**
+
 <br>
+
 `#bugbounty` `#pentesting` `#kalilinux` `#automation` `#hackerofhell` `#rajeshbajiya` `#infosec` `#ethicalhacking`
+
 </div>
+
 ---
-📜 License
+
+## 📜 License
+
 ```
 MIT License
 
@@ -1566,10 +1797,14 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. FOR AUTHORIZED TESTING ONLY.
 THE AUTHOR IS NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE.
 ```
+
 ---
+
 <div align="center">
+
 ```
 ⚡ HACKEROFHELL v3.0 ULTIMATE ⚡
 Built by RAJESH BAJIYA — HACKEROFHELL
 ```
+
 </div>
