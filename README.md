@@ -339,7 +339,7 @@ cd ~/autopwn
 
 **Option A — Clone from GitHub (recommended):**
 ```bash
-git clone https://github.com/RAJESHBAJIYA/hackerofhell.git ~/autopwn
+git clone https://github.com/thehellrider978/HACKEROFHELL-v3.0-ULTIMATE.git ~/autopwn
 cd ~/autopwn
 ```
 
